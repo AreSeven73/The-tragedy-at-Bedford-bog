@@ -1,14 +1,6 @@
 # The tragedy at Bedford bog
 Original fanfiction: https://archiveofourown.org/works/65560969
 
-# 🌐 Language / 言語選択 / 语言选择
-
-- [English](#English)
-- [日本語](#Japanese)
-- [中文](#Chinese)
-
-## English
-
 ![alt text](image link)
 
 # The tragedy at Bedford bog - a visual novel
@@ -29,8 +21,3 @@ As such he began various restoration efforts such as the collation of the KEGS l
 ## Final words
 Thank you for viewiing **The tragedy at Bedford bog**
 
-## Japanese
-idk japanese
-
-## Chinese
-looter knows chinese maybe he can help you
