@@ -7,7 +7,7 @@ Original fanfiction: https://archiveofourown.org/works/65560969
 
 A historic recollection of the events authored by the internationally known Mr Thomlinson in visual novel form, expanding on events not originally included within the written format for brevity.
 
-The visual novel is at 1400 lines (10% completion) at this time
+The visual novel is at 1400 lines (10% completion) at this time.
 
 ## About the project
 This project was started to honour and celebrate the **original ao3 fanfiction** and the cultural significance of various myths and legends at King Edward VI's Grammar School.
@@ -23,5 +23,5 @@ As such he began various restoration efforts such as the collation of the KEGS l
 4. Start the project labelled "The tragedy at Bedford bog"
 
 ## Final words
-Thank you for viewiing **The tragedy at Bedford bog**
+Thank you for viewing **The tragedy at Bedford bog**
 
