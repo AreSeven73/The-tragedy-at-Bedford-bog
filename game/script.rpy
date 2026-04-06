@@ -2194,6 +2194,7 @@ label start:
     ff "Mhm."
     cf "We're in agreement? Ok."
     narrator "He slowly rises out of the bushes."
+    #scene bushnight
     cf "Hey! Hello? Is somebody there?"
     narrator "He approaches the light they light turns towards him."
     ager "Charles?"
@@ -2223,10 +2224,40 @@ label start:
     ager "?"
     laksh "Hmph. Lets go."
     ff "Should just be from here."
-    #change scene to base
+    #change scene to basenight
     narrator "They return, walking down the creek, back to the clearing where they first arrived at Bedford bog."
     narrator "Without any delay, the first thing they do is to crash, falling asleep upon small sacks that softened the hardness of the ground."
     narrator "It was the longest night they had slept in weeks."
+
+
+    #change scene base
+    rich "Any luck?"
+    narrator "Ishmam shakes his head."
+    narrator "Years of medical studies and work placements and his dreams of studying at the Imperial college made useless through no fault of his own, all useless in the field too."
+    king "We've long ran out of paracetamol. Beyond wrapping them up warm, there's not a lot we can do."
+    narrator "Richard stands next to Othniel, who coughs and splutters with a cold fever."
+    rich "I'm telling you, it's probably just a cold or flu at worst."
+    ish "That's not the point.{w} These used to be killer in the days before modern medicine and better standard of care."
+    ish "For us, starting civilisation from scratch, it may be no different."
+    rich "But don't we have uh.."
+    narrator "He beckons at Kingshuk who stands over Othniel, checking his temperature as he struggles to find the right words."
+    ish "Immunity?"
+    rich "Maybe? Like when our bodies become more resilient to a disease as a whole when time passes?"
+    ish "Ye -"
+    #loud whistle
+    narrator "He is interrupted by a shrill whistle outside."
+    king "Huh?"
+    "Othniel" "*Groan*"
+    rich "Let's go see what it is."
+    narrator "They leave the tent, the afternoon wind tapping at it gently as they wander towards the noise."
+    sam "Richard! What was that all about?"
+    rich "You're finally awake? Damn, it's the afternoon already."
+    rich "I have no idea what the whistle was about, we're going to have a look."
+    sam "Alright."
+    narrator "Outside the old blue house, a crowd had formed."
+    narrator "Ms Jones and Mrs Friel stood at the head of the crowd as they approached."
+
+
 
 
 
